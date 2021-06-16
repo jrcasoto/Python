@@ -17,5 +17,4 @@ def goldbach(n):
     return f
     
 
-
 goldbach(n)
